@@ -1,4 +1,4 @@
-# <img src="banner.jpg" align="center" alt="banner"/>
+
 
 Source code for my personal portfolio, musabhassan.com
 
@@ -14,7 +14,7 @@ This website is built with
 - [Three.js (3D Effects)](https://github.com/mrdoob/three.js/)
 - [Firebase (Hosting)](https://firebase.google.com/docs/hosting)
 
-This is the source for version 2+. Version 1.0, the one built with jQuery is in the [v1 branch](https://github.com/Musab-Hassan/musabhassan.com/tree/v1).
+This project is in reference to -  [v1 branch](https://github.com/Musab-Hassan/musabhassan.com/tree/v1).
 
 ### Developing
 
