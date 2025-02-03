@@ -89,7 +89,7 @@
                 designed and developed by Ghanshyam S Nair with Reference to a template from awwwards.com<br>
                 
                 <!-- Support the project by keeping this line in your fork -->
-                <a class="clickable button no-decor" href="https://github.com/Musab-Hassan/musabhassan.com" target="_blank">
+                <a class="clickable button no-decor" href="https://github.com/GhanShyam-nair/Portfolio-AWW" target="_blank">
                     this website is open source on github
                 </a>
             </p>
