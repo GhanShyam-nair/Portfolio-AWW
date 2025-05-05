@@ -21,21 +21,21 @@
     },
     {
         "id": "v1",
-        "title": "ERSA",
+        "title": "HoverShelf",
         "details": {
             "description": "My Design and Developement Agency ",
             "summary": "Agency"
         },
         "date": "Dec 2024",
         "roles": [
-            "UI/UX Designer",
-            "Front-end Web Developer"
+            "Gen AI development",
+            "Fullstack Developer"
         ],
         "links": [
             {
                 "type": "web",
                 "text": "Visit Site",
-                "link": "https://ersa.dev/"
+                "link": "https://hovershelf.io/"
             }
         ]
     },
